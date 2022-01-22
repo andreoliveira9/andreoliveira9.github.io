@@ -7,8 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Projetos
 
 - [Globo](https://andreoliveira9.github.io/projeto-globo/)
-- [instagram](https://andreoliveira9.github.io/projeto-instagram/)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Instagram](https://andreoliveira9.github.io/projeto-instagram/)
 
 ```markdown
 Syntax highlighted code block
